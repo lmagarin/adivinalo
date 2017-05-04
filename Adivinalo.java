@@ -29,6 +29,11 @@ import java.io.PrintWriter;
  * @author mlmc
  * 
  */
+
+
+//Modificado por Jaime
+
+
 public class Adivinalo {
 
 	private static final String NOMBRE_FICHERO = "record.txt";
