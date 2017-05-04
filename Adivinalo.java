@@ -31,7 +31,7 @@ import java.io.PrintWriter;
  */
 
 
-//Modificado por Jaime
+//Modificado por Jaime Rabasco Ronda
 
 
 public class Adivinalo {
